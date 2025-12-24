@@ -62,22 +62,6 @@ That means:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwiftDev&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwiftDev&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwiftDev&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ## 🚀 Currently Interested In
 
 - Modern JavaScript frameworks  
