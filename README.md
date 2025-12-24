@@ -1,77 +1,39 @@
-<h1 align="center">Hi 👋, I'm Swift</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
+<h1 align="center">Swift</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Web+Developer;Full+Stack+Engineer;Building+real+world+apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&center=true&vCenter=true&width=460&lines=Web+Developer;Full+Stack+Builder;Shipping+Clean+Web+Apps" />
+</p>
+
+<p align="center">
+  <a href="https://swiftdeveloper.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/1354312181356957847" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ Stack
 
-I'm **Swift**, a web developer focused on building modern, scalable web applications that solve real problems.
-
-I care about:
-- clean, readable code  
-- performance and scalability  
-- simple solutions over over-engineering  
-- good user experience  
-
-I work comfortably across the stack and enjoy shipping things that actually work in production.
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github&perline=6" />
 </p>
 
 ---
 
-## 💼 What I Do
+## 🚀 What I Build
 
-- Build responsive and interactive UIs  
-- Develop secure backend systems  
-- Create full-stack web applications  
-- Integrate APIs and external services  
-- Maintain clean and scalable codebases  
-
----
-
-## 🧠 How I Work
-
-I prioritize clarity over cleverness.
-
-That means:
-- planning before coding  
-- keeping projects easy to maintain  
-- avoiding unnecessary complexity  
-- focusing on long-term quality  
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack-111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs-111?style=for-the-badge" />
+</p>
 
 ---
 
-## 🚀 Currently Interested In
-
-- Modern JavaScript frameworks  
-- Performance optimization  
-- Scalable architectures  
-- Clean UI/UX  
-- Better dev workflows  
-
----
-
-## 🤝 Let’s Connect
-
-If you want to collaborate, talk tech, or build something useful — feel free to reach out.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:222222&height=120&section=footer" />
+</p>
