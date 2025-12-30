@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://swiftdeveloper.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Portfolio" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=vercel" width="55" height="55" style="margin:0 12px;" />
   </a>
   <a href="https://discord.com/users/1354312181356957847" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" alt="Discord" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=discord" width="55" height="55" style="margin:0 12px;" />
   </a>
   <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=github" width="55" height="55" style="margin:0 12px;" />
   </a>
 </p>
 
@@ -24,14 +24,14 @@ I’m **Swift**, a passionate full-stack web developer who loves turning ideas i
 I focus on **performance, scalability, and beautiful design**.  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=egypt,kuwait" width="40" height="40" alt="Egypt & Kuwait" style="margin:0 10px;" />
+  <img src="https://skillicons.dev/icons?i=egypt,kuwait" width="45" height="45" style="margin:0 10px;" />
 </p>
 
 ⚡ Enthusiastic about **creative web solutions**  
 💡 Always learning **new tech** and experimenting with **animations & micro-interactions**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=heart,brain,figma,idea" width="35" height="35" style="margin:0 8px;" />
+  <img src="https://skillicons.dev/icons?i=heart,brain,figma,idea" width="40" height="40" style="margin:0 10px;" />
 </p>
 
 ---
@@ -40,17 +40,17 @@ I focus on **performance, scalability, and beautiful design**.
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,framer" width="50" height="50" style="margin:0 10px;" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,framer" width="60" height="60" style="margin:0 12px;" />
 </p>
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,nestjs" width="50" height="50" style="margin:0 10px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,nestjs" width="60" height="60" style="margin:0 12px;" />
 </p>
 
 ### Database & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,git,github,vercel,docker" width="50" height="50" style="margin:0 10px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,git,github,vercel,docker" width="60" height="60" style="margin:0 12px;" />
 </p>
 
 ---
@@ -58,7 +58,7 @@ I focus on **performance, scalability, and beautiful design**.
 ## 💼 What I Do
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,nodejs,postman,react,adobe" width="40" height="40" style="margin:0 8px;" />
+  <img src="https://skillicons.dev/icons?i=figma,nodejs,postman,react,adobe" width="50" height="50" style="margin:0 10px;" />
 </p>
 
 - Build **responsive and interactive interfaces**  
@@ -72,7 +72,7 @@ I focus on **performance, scalability, and beautiful design**.
 ## 🧠 How I Work
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudiocode,figma,github,webdev" width="40" height="40" style="margin:0 8px;" />
+  <img src="https://skillicons.dev/icons?i=visualstudiocode,figma,github,webdev" width="50" height="50" style="margin:0 10px;" />
 </p>
 
 - Prefer **simple, readable solutions**  
@@ -86,7 +86,7 @@ I focus on **performance, scalability, and beautiful design**.
 ## 🌟 Culture & Fun
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=egypt,kuwait,github,caffeine" width="40" height="40" style="margin:0 8px;" />
+  <img src="https://skillicons.dev/icons?i=egypt,kuwait,github,caffeine" width="45" height="45" style="margin:0 10px;" />
 </p>
 
 **Fun facts:**  
@@ -100,13 +100,13 @@ I focus on **performance, scalability, and beautiful design**.
 
 <p align="center">
   <a href="https://swiftdeveloper.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=vercel" width="55" height="55" style="margin:0 12px;" />
   </a>
   <a href="https://discord.com/users/1354312181356957847" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=discord" width="55" height="55" style="margin:0 12px;" />
   </a>
   <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" style="margin:0 10px;" />
+    <img src="https://skillicons.dev/icons?i=github" width="55" height="55" style="margin:0 12px;" />
   </a>
 </p>
 
