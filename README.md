@@ -1,18 +1,18 @@
 <h1 align="center">Swift</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&center=true&vCenter=true&width=600&lines=Web+Developer;Full+Stack+Builder;Creative+&+Scalable+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&center=true&vCenter=true&width=600&lines=Web+Developer;Full+Stack+Builder;Creative+%26+Scalable+Apps" />
 </p>
 
 <p align="center">
   <a href="https://swiftdeveloper.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Portfolio" />
+    <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Portfolio" style="margin:0 10px;" />
   </a>
   <a href="https://discord.com/users/1354312181356957847" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord" />
+    <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" alt="Discord" style="margin:0 10px;" />
   </a>
   <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" style="margin:0 10px;" />
   </a>
 </p>
 
@@ -24,18 +24,14 @@ I’m **Swift**, a passionate full-stack web developer who loves turning ideas i
 I focus on **performance, scalability, and beautiful design**.  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=egypt" width="40" height="40" alt="Egypt" />  
-  <img src="https://skillicons.dev/icons?i=kuwait" width="40" height="40" alt="Kuwait" />
+  <img src="https://skillicons.dev/icons?i=egypt,kuwait" width="40" height="40" alt="Egypt & Kuwait" style="margin:0 10px;" />
 </p>
 
 ⚡ Enthusiastic about **creative web solutions**  
 💡 Always learning **new tech** and experimenting with **animations & micro-interactions**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=heart" width="30" height="30" alt="Passionate" />
-  <img src="https://skillicons.dev/icons?i=brain" width="30" height="30" alt="Problem Solver" />
-  <img src="https://skillicons.dev/icons?i=figma" width="30" height="30" alt="Creative" />
-  <img src="https://skillicons.dev/icons?i=idea" width="30" height="30" alt="Innovative" />
+  <img src="https://skillicons.dev/icons?i=heart,brain,figma,idea" width="35" height="35" style="margin:0 8px;" />
 </p>
 
 ---
@@ -44,17 +40,17 @@ I focus on **performance, scalability, and beautiful design**.
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,framer" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,framer" width="50" height="50" style="margin:0 10px;" />
 </p>
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,nestjs" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,nestjs" width="50" height="50" style="margin:0 10px;" />
 </p>
 
 ### Database & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,git,github,vercel,docker" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,git,github,vercel,docker" width="50" height="50" style="margin:0 10px;" />
 </p>
 
 ---
@@ -62,11 +58,7 @@ I focus on **performance, scalability, and beautiful design**.
 ## 💼 What I Do
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma" width="35" height="35" alt="Responsive UI" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="35" height="35" alt="Scalable Backend" />
-  <img src="https://skillicons.dev/icons?i=postman" width="35" height="35" alt="API Integration" />
-  <img src="https://skillicons.dev/icons?i=react" width="35" height="35" alt="Full Stack" />
-  <img src="https://skillicons.dev/icons?i=adobe" width="35" height="35" alt="UX/UI Design" />
+  <img src="https://skillicons.dev/icons?i=figma,nodejs,postman,react,adobe" width="40" height="40" style="margin:0 8px;" />
 </p>
 
 - Build **responsive and interactive interfaces**  
@@ -80,10 +72,7 @@ I focus on **performance, scalability, and beautiful design**.
 ## 🧠 How I Work
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudiocode" width="35" height="35" alt="Clean Code" />
-  <img src="https://skillicons.dev/icons?i=figma" width="35" height="35" alt="Thoughtful Design" />
-  <img src="https://skillicons.dev/icons?i=github" width="35" height="35" alt="Architecture" />
-  <img src="https://skillicons.dev/icons?i=webdev" width="35" height="35" alt="Performance" />
+  <img src="https://skillicons.dev/icons?i=visualstudiocode,figma,github,webdev" width="40" height="40" style="margin:0 8px;" />
 </p>
 
 - Prefer **simple, readable solutions**  
@@ -97,7 +86,7 @@ I focus on **performance, scalability, and beautiful design**.
 ## 🌟 Culture & Fun
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=egypt,kuwait,github,caffeine" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=egypt,kuwait,github,caffeine" width="40" height="40" style="margin:0 8px;" />
 </p>
 
 **Fun facts:**  
@@ -110,7 +99,15 @@ I focus on **performance, scalability, and beautiful design**.
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,discord,github" width="40" height="40" />
+  <a href="https://swiftdeveloper.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" style="margin:0 10px;" />
+  </a>
+  <a href="https://discord.com/users/1354312181356957847" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" style="margin:0 10px;" />
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" style="margin:0 10px;" />
+  </a>
 </p>
 
 <p align="center">
