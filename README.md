@@ -11,10 +11,6 @@
   <a href="https://discord.com/users/1354312181356957847" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&round=true" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&round=true" />
-  </a>
-</p>
 
 ---
 
@@ -25,7 +21,6 @@ I focus on **performance, scalability, and beautiful design**.
 
 <p align="center">
   <img src="https://img.shields.io/badge/From-Egypt-CE1126?style=for-the-badge&logo=egypt&logoColor=white&round=true" />  
-  <img src="https://img.shields.io/badge/Living-in-Kuwait-00A3E0?style=for-the-badge&logo=kuwait&logoColor=white&round=true" />
 </p>
 
 ⚡ Enthusiastic about **creative web solutions**  
@@ -119,9 +114,6 @@ I focus on **performance, scalability, and beautiful design**.
   </a>
   <a href="https://discord.com/users/1354312181356957847">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&round=true" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&round=true" />
   </a>
 </p>
 
