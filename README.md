@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://swiftdeveloper.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white&round=true" />
+    <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Portfolio" />
   </a>
   <a href="https://discord.com/users/1354312181356957847" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&round=true" />
+    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord" />
   </a>
   <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&round=true" />
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
   </a>
 </p>
 
@@ -24,18 +24,18 @@ I’m **Swift**, a passionate full-stack web developer who loves turning ideas i
 I focus on **performance, scalability, and beautiful design**.  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/From-Egypt-CE1126?style=for-the-badge&logo=egypt&logoColor=white&round=true" />  
-  <img src="https://img.shields.io/badge/Living-in-Kuwait-00A3E0?style=for-the-badge&logo=kuwait&logoColor=white&round=true" />
+  <img src="https://skillicons.dev/icons?i=egypt" width="40" height="40" alt="Egypt" />  
+  <img src="https://skillicons.dev/icons?i=kuwait" width="40" height="40" alt="Kuwait" />
 </p>
 
 ⚡ Enthusiastic about **creative web solutions**  
 💡 Always learning **new tech** and experimenting with **animations & micro-interactions**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Passionate-Red?style=for-the-badge&logo=heart&logoColor=white&round=true" />
-  <img src="https://img.shields.io/badge/Problem%20Solver-Blue?style=for-the-badge&logo=brain&logoColor=white&round=true" />
-  <img src="https://img.shields.io/badge/Creative-Magenta?style=for-the-badge&logo=figma&logoColor=white&round=true" />
-  <img src="https://img.shields.io/badge/Innovative-Yellow?style=for-the-badge&logo=idea&logoColor=black&round=true" />
+  <img src="https://skillicons.dev/icons?i=heart" width="30" height="30" alt="Passionate" />
+  <img src="https://skillicons.dev/icons?i=brain" width="30" height="30" alt="Problem Solver" />
+  <img src="https://skillicons.dev/icons?i=figma" width="30" height="30" alt="Creative" />
+  <img src="https://skillicons.dev/icons?i=idea" width="30" height="30" alt="Innovative" />
 </p>
 
 ---
@@ -44,18 +44,17 @@ I focus on **performance, scalability, and beautiful design**.
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux&perline=7" />
-  <img src="https://img.shields.io/badge/Animation-FramerMotion-purple?style=for-the-badge&logo=framer&logoColor=white&round=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,framer" width="50" height="50" />
 </p>
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,nestjs&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,nestjs" width="50" height="50" />
 </p>
 
 ### Database & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,git,github,vercel,docker&perline=7" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,git,github,vercel,docker" width="50" height="50" />
 </p>
 
 ---
@@ -63,11 +62,11 @@ I focus on **performance, scalability, and beautiful design**.
 ## 💼 What I Do
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Responsive-UI-blue?style=for-the-badge&logo=figma&logoColor=white&round=true" />
-  <img src="https://img.shields.io/badge/Scalable-Backend-green?style=for-the-badge&logo=node.js&logoColor=white&round=true" />
-  <img src="https://img.shields.io/badge/API-Integration-orange?style=for-the-badge&logo=postman&logoColor=white&round=true" />
-  <img src="https://img.shields.io/badge/Full-Stack-purple?style=for-the-badge&logo=react&logoColor=white&round=true" />
-  <img src="https://img.shields.io/badge/UX/UI-Design-pink?style=for-the-badge&logo=adobe&logoColor=white&round=true" />
+  <img src="https://skillicons.dev/icons?i=figma" width="35" height="35" alt="Responsive UI" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="35" height="35" alt="Scalable Backend" />
+  <img src="https://skillicons.dev/icons?i=postman" width="35" height="35" alt="API Integration" />
+  <img src="https://skillicons.dev/icons?i=react" width="35" height="35" alt="Full Stack" />
+  <img src="https://skillicons.dev/icons?i=adobe" width="35" height="35" alt="UX/UI Design" />
 </p>
 
 - Build **responsive and interactive interfaces**  
@@ -81,10 +80,10 @@ I focus on **performance, scalability, and beautiful design**.
 ## 🧠 How I Work
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean-Code-fff?style=for-the-badge&logo=visualstudiocode&logoColor=blue&round=true" />
-  <img src="https://img.shields.io/badge/Thoughtful-Design-pink?style=for-the-badge&logo=figma&logoColor=white&round=true" />
-  <img src="https://img.shields.io/badge/Maintainable-Architecture-teal?style=for-the-badge&logo=github&logoColor=white&round=true" />
-  <img src="https://img.shields.io/badge/Optimized-Performance-yellow?style=for-the-badge&logo=webdev&logoColor=black&round=true" />
+  <img src="https://skillicons.dev/icons?i=visualstudiocode" width="35" height="35" alt="Clean Code" />
+  <img src="https://skillicons.dev/icons?i=figma" width="35" height="35" alt="Thoughtful Design" />
+  <img src="https://skillicons.dev/icons?i=github" width="35" height="35" alt="Architecture" />
+  <img src="https://skillicons.dev/icons?i=webdev" width="35" height="35" alt="Performance" />
 </p>
 
 - Prefer **simple, readable solutions**  
@@ -98,10 +97,7 @@ I focus on **performance, scalability, and beautiful design**.
 ## 🌟 Culture & Fun
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Egypt-CE1126?style=for-the-badge&logo=egypt&logoColor=white&round=true" />
-  <img src="https://img.shields.io/badge/Kuwait-00A3E0?style=for-the-badge&logo=kuwait&logoColor=white&round=true" />
-  <img src="https://img.shields.io/badge/Tech%20Lover-ff69b4?style=for-the-badge&logo=github&logoColor=white&round=true" />
-  <img src="https://img.shields.io/badge/Coffee-FE6800?style=for-the-badge&logo=caffeine&logoColor=white&round=true" />
+  <img src="https://skillicons.dev/icons?i=egypt,kuwait,github,caffeine" width="40" height="40" />
 </p>
 
 **Fun facts:**  
@@ -114,15 +110,7 @@ I focus on **performance, scalability, and beautiful design**.
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://swiftdeveloper.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white&round=true" />
-  </a>
-  <a href="https://discord.com/users/1354312181356957847">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&round=true" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&round=true" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=vercel,discord,github" width="40" height="40" />
 </p>
 
 <p align="center">
